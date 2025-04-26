@@ -1,6 +1,6 @@
 {
   "anvil_cost": 4,
-  "description": "Tougness",
+  "description": "Toughness",
   "effects": {
     "minecraft:attributes": [
       {
@@ -10,7 +10,7 @@
           "per_level_above_first": 1
         },
         "attribute": "minecraft:armor_toughness",
-        "id": "tougness_enchantment:enchantment.tougness",
+        "id": "toughness_enchantment:enchantment.toughness",
         "operation": "add_value"
       }
     ]

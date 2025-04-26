@@ -10,7 +10,7 @@
             {
               "function": "minecraft:set_enchantments",
               "enchantments": {
-                "tougness_enchantment:tougness": 1
+                "toughness_enchantment:toughness": 3
               }
             }
           ]
